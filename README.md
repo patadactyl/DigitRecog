@@ -1,0 +1,2 @@
+# DigitRecog
+Handwritten digit recognition
